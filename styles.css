@@ -1,0 +1,15 @@
+.grid {
+    width: 700px;
+    
+}
+
+.col {
+    display: flex;
+    justify-content: space-around;
+}
+.small-box {
+    flex: 1 0 auto;
+    aspect-ratio: 1 / 1 ;
+    outline: 1px solid;
+
+}
